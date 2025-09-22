@@ -2,3 +2,11 @@ title: "Yurii Kiktenko — Data Engineering"
 description: "Data Engineer — Spark (PySpark), Airflow, Kafka, GCP"
 theme: minima
 markdown: kramdown
+
+url: "https://YuriiKiktenko.github.io"
+baseurl: ""   # для user-site оставь пустым
+
+minima:
+  social_links:
+    - { platform: github,   user_url: "https://github.com/YuriiKiktenko" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/<your-handle>/" }
